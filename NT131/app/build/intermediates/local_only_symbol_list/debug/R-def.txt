@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id column_chart
+id humidityTextView
+id lightSwitch1
+id lightSwitch2
+id lightSwitch3
+id line_chart
+id progressBar
+id refreshButton
+id temperatureTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.NT131
+style Theme.NT131
+xml backup_rules
+xml data_extraction_rules
