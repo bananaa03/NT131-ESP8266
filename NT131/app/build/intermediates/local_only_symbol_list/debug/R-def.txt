@@ -4,12 +4,10 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-id column_chart
 id humidityTextView
 id lightSwitch1
 id lightSwitch2
 id lightSwitch3
-id line_chart
 id progressBar
 id refreshButton
 id temperatureTextView
